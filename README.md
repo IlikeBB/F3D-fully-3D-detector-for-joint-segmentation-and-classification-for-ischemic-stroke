@@ -1,7 +1,7 @@
 # F3D-fully-3D-detector-for-joint-segmentation-and-classification-for-ischemic-stroke
 
 <h3>Environment</h3>
-API: <a href='https://github.com/qubvel/segmentation_models'>Segmentation Models API</a>、<a href='https://github.com/albumentations-team/albumentations#documentation'>Albumentation API</a><br>
+API: <a href='https://github.com/qubvel/segmentation_models'>Segmentation Models API</a>、<a href='https://github.com/albumentations-team/albumentations#documentation'>Albumentations API</a><br>
 tensorflow: 2.2.x</br>
 cuda: 10.1</br>
 keras: 2.4.3</br>
